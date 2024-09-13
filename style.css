@@ -1,8 +1,8 @@
 body{
     margin: 0;
     padding-top: 10vh;
-    color: white;
-    background-color: #000957;
+    color: #f5e21b;
+    background-color: #2d57b2;
 }
 
 a{
@@ -29,7 +29,7 @@ a{
 }
 
 .sub-text{
-    font-family: "Share Tech Mono", monospace;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .header{
@@ -200,7 +200,7 @@ a{
 
 .exp-skills-logo-color{
     width: 75px;
-    background-color: lightblue;    
+    background-color: #ffb694;    
 }
 
 .exp-skills-text{
@@ -208,59 +208,50 @@ a{
 }
 
 .unity-percent{
-    height:55px;
-    
+    height:90%;
 } 
 
-.exp-skills-logo-color-Bootstrap{
+.bootstrap-percent{
+    height: 35px;
+}
+
+.csharp-percent{
+    height: 25px;
+}
+
+.cplusplus-percent{
+    height: 65px;
+}
+
+.git-percent{
+    height: 25px;
+}
+
+.java-percent{
     height: 55px;
 }
 
-.exp-skills-logo-color-CSharp{
-    width: 75px;
+
+.python-percent{
+    height: 45px;
+}
+
+
+.java-script-percent{
     height: 75px;
 }
 
-.exp-skills-logo-color-CPlusPlus{
-    width: 75px;
-    height: 75px;
-}
-
-.exp-skills-logo-color-Git{
-    width: 75px;
-    height: 75px;
-}
-
-.exp-skills-logo-color-Java{
-    width: 75px;
+.css-percent{
     height: 75px;
 }
 
 
-.exp-skills-logo-color-Python{
-    width: 75px;
+.html-percent{
     height: 75px;
 }
 
-
-.exp-skills-logo-color-JavaScript{
-    width: 75px;
-    height: 75px;
-}
-
-.exp-skills-logo-color-CSS{
-    width: 75px;
-    height: 75px;
-}
-
-.exp-skills-text-HTML{
-    text-align: center;
-}
-
-.exp-skills-logo-color-HTML{
-    width: 75px;
-    height: 75px;
-    background-color: purple;
+.personal-percent{
+    height: 100%;
 }
 
 /* Personal Skills */
@@ -303,8 +294,8 @@ a{
 }
 
 .exp-project-logo{
-    width: 15px;
-    height: 15px;
+    width: 20px;
+    height: 20px;
     margin-top: 5px;
     margin-right: 5px;
     align-self: center;
@@ -329,6 +320,10 @@ a{
     border-radius: 5px;
     margin-top: 5px;
     align-self: left;
+}
+
+.space-out{
+    padding-right: 10px;
 }
 
 /*------------------ Contact ------------------------ */
