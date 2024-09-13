@@ -1,0 +1,11 @@
+audacity-win-3.4.2.64bit.exe
+Images/audacity-win-3.4.2-64bit.exe
+Images/GitHubDesktopSetup-x64.exe
+Images/npp.8.6.5.Installer.x64.exe
+.vscode/settings.json
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+*.tmp
