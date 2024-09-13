@@ -85,6 +85,10 @@ a{
 
 }
 
+.navbar-z-index{
+    z-index: 1;
+}
+
 
 /*------------------ Home ------------------------ */
 
@@ -185,10 +189,6 @@ a{
     transform: scale(-1);
 }
 
-.exp-skills-below-heading{
-    z-index: -1;
-}
-
 
 .exp-skills-text-Unity{
     text-align: center;
@@ -197,26 +197,26 @@ a{
 
 /* BG Color of the logo */
 
-.exp-skills-logo-color-Unity{
-    height:55px;
-    width: 75px;
-    background-color: purple;
-    
-} 
 
-.exp-skills-text-Bootstrap{
+.exp-skills-logo{
+    width: 75px;
+    background-color: lightblue;    
+}
+
+.exp-skills-text{
     text-align: center;
 }
+
+.exp-skills-logo-color-Unity{
+    height:55px;
+    
+} 
 
 .exp-skills-logo-color-Bootstrap{
     width: 75px;
     height: 55px;
     background-color: purple;
 
-}
-
-.exp-skills-text-CSharp{
-    text-align: center;
 }
 
 .exp-skills-logo-color-CSharp{
@@ -226,18 +226,10 @@ a{
 
 }
 
-.exp-skills-text-CPlusPlus{
-    text-align: center;
-}
-
 .exp-skills-logo-color-CPlusPlus{
     width: 75px;
     height: 75px;
     background-color: purple;
-}
-
-.exp-skills-text-Git{
-    text-align: center;
 }
 
 .exp-skills-logo-color-Git{
@@ -246,19 +238,12 @@ a{
     background-color: purple;
 }
 
-.exp-skills-text-Java{
-    text-align: center;
-}
-
 .exp-skills-logo-color-Java{
     width: 75px;
     height: 75px;
     background-color: purple;
 }
 
-.exp-skills-text-Python{
-    text-align: center;
-}
 
 .exp-skills-logo-color-Python{
     width: 75px;
@@ -266,18 +251,11 @@ a{
     background-color: purple;
 }
 
-.exp-skills-text-JavaScript{
-    text-align: center;
-}
 
 .exp-skills-logo-color-JavaScript{
     width: 75px;
     height: 75px;
     background-color: purple;
-}
-
-.exp-skills-text-CSS{
-    text-align: center;
 }
 
 .exp-skills-logo-color-CSS{
