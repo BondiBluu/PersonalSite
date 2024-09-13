@@ -198,7 +198,7 @@ a{
 /* BG Color of the logo */
 
 
-.exp-skills-logo{
+.exp-skills-logo-color{
     width: 75px;
     background-color: lightblue;    
 }
@@ -207,61 +207,50 @@ a{
     text-align: center;
 }
 
-.exp-skills-logo-color-Unity{
+.unity-percent{
     height:55px;
     
 } 
 
 .exp-skills-logo-color-Bootstrap{
-    width: 75px;
     height: 55px;
-    background-color: purple;
-
 }
 
 .exp-skills-logo-color-CSharp{
     width: 75px;
     height: 75px;
-    background-color: purple;
-
 }
 
 .exp-skills-logo-color-CPlusPlus{
     width: 75px;
     height: 75px;
-    background-color: purple;
 }
 
 .exp-skills-logo-color-Git{
     width: 75px;
     height: 75px;
-    background-color: purple;
 }
 
 .exp-skills-logo-color-Java{
     width: 75px;
     height: 75px;
-    background-color: purple;
 }
 
 
 .exp-skills-logo-color-Python{
     width: 75px;
     height: 75px;
-    background-color: purple;
 }
 
 
 .exp-skills-logo-color-JavaScript{
     width: 75px;
     height: 75px;
-    background-color: purple;
 }
 
 .exp-skills-logo-color-CSS{
     width: 75px;
     height: 75px;
-    background-color: purple;
 }
 
 .exp-skills-text-HTML{
