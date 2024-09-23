@@ -6,7 +6,7 @@ body{
 }
 
 a{
-    color: white;
+    color: #f5e21b;
 }
 
 .flex-container{
@@ -212,42 +212,42 @@ a{
 } 
 
 .bootstrap-percent{
-    height: 35px;
+    height: 40%;
 }
 
 .csharp-percent{
-    height: 25px;
+    height: 75%;
 }
 
 .cplusplus-percent{
-    height: 65px;
+    height: 50%;
 }
 
 .git-percent{
-    height: 25px;
+    height: 50%;
 }
 
 .java-percent{
-    height: 55px;
+    height: 60%;
 }
 
 
 .python-percent{
-    height: 45px;
+    height: 60%;
 }
 
 
 .java-script-percent{
-    height: 75px;
+    height: 40%;
 }
 
 .css-percent{
-    height: 75px;
+    height: 80%;
 }
 
 
 .html-percent{
-    height: 75px;
+    height: 85%;
 }
 
 .personal-percent{
@@ -282,7 +282,7 @@ a{
 .exp-link{
     text-decoration: none;
     /* color */
-    border: solid 2px white;
+    border: solid 2px #f5e21b;
     padding: 10px;
     border-radius: 5px;
     margin-top: 5px;
@@ -315,7 +315,7 @@ a{
 .resume-a{
     text-decoration: none;
     /* color */
-    border: solid 2px black;
+    border: solid 2px #f5e21b;
     padding: 10px;
     border-radius: 5px;
     margin-top: 5px;
